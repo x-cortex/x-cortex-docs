@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Houston",
+  "editor.fontFamily": "'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', 'Hack Nerd Font', 'Fira Code Nerd Font', monospace",
+  "svelte.enable-ts-plugin": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "cursor.cpp.disabledLanguages": [
+    "svelte",
+    "javascript"
+  ],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": "true",
+    "markdown": "true",
+    "scminput": false
+  }
+}

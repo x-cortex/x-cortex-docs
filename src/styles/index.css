@@ -1,0 +1,19 @@
+/* .sl-markdown-content
+  :not(a, strong, em, del, span, input, code, ul, li)
+  + :not(a, strong, em, del, span, input, code, ul, li :where(.not-content *)) {
+  margin-top: 1.5rem;
+}
+
+.sl-markdown-content ul:not(a, strong, em, del, span, input, code) {
+  margin-top: 0.4rem;
+} */
+
+.sl-markdown-content img {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+ul:not(.top-level) li details summary .group-label .large {
+  font-weight: 400;
+}
