@@ -26,7 +26,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Overview",
+          label: "overview",
           link: "overview/",
         },
         {
