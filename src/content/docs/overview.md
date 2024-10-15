@@ -6,43 +6,24 @@ sidebar:
   order: 1
 ---
 
-![Overview Image](./images/overview.png)  
+<!-- ![Overview Image](./images/overview.png)   -->
 
-<!-- 
-In an increasingly digital world, people often find themselves overwhelmed by repetitive tasks—whether it’s managing schedules, responding to messages, or handling calls. Current virtual assistants, while useful, typically lack the personalization and privacy that modern users demand. 
+```
+abbr: exocortex (exo - external, cortex - brain)
+```
 
-## Areas of Exploration
-Our research focuses on three pivotal areas aimed at revolutionizing the functionality of AI assistants:
+Theoretical concept where you can append your brain with an external brain.
 
-### 1. LLM Optimization
-The first step is optimizing large language models (LLMs) to ensure they can run effectively on individual devices without compromising performance. 
+### What do we want our exocortex to do?
 
-- **Use Cases**: Automating everyday tasks such as texting, scheduling, and call management with tailored responses.
-- **Challenges**: Achieving the right balance between personalized outputs and the computational resources available on user devices (CPU, RAM).
+- Automate all repetitive tasks
+- Be able to partially replace you when you are busy
+- Be faithful to you 
+- Know everything about you
 
-**Goal**: Reduce the size and complexity of LLMs while maintaining responsiveness and accuracy, allowing for a seamless user experience.
+### Why is this important?
 
-### 2. Localized Processing and Data Privacy
-Moving beyond cloud dependency is crucial. By processing data locally, we enhance user privacy and security, ensuring sensitive information remains on the user’s device.
+Currently, we are on a path towards AGI and ASI in the coming years. ASI is an intelligent system that is more intelligent than all humans combined. The way we see this is that there are only two paths that humans can take in the coming AI future:
 
-- **Use Cases**: Safeguarding personal data during communications and ensuring secure task management.
-- **Challenges**: Developing high-performance models capable of functioning efficiently on local devices without lag.
-
-**Goal**: Achieve complete data privacy by ensuring all information is processed locally, thus mitigating the risks associated with cloud storage and data breaches.
-
-### 3. Personalized Responses through Data Utilization
-Harnessing personal data—such as communication patterns and user preferences—allows the digital assistant to provide hyper-personalized interactions.
-
-- **Examples of Data**:
-    - **Texts**: Analyzing communication history for natural language processing.
-    - **Calls**: Understanding frequent contacts and preferred handling methods.
-    - **Calendar**: Customizing scheduling based on individual routines.
-
-- **What can this data be used for?**:
-    - Generating automated responses that align with the user’s voice and communication style.
-    - Creating a personal assistant that adapts to daily schedules and offers tailored recommendations.
-
-**Goal**: Utilize personal data to foster an adaptive AI that responds uniquely to each user, enhancing the overall experience while prioritizing privacy.
-
-## Conclusion
-The future of digital assistants lies in delivering **personalized**, **efficient**, and **secure** AI-powered solutions that adapt to individual user needs. By focusing on optimization, localized processing, and data utilization, we aim to set a new standard for intelligent assistants—making them not only smarter and faster but also more attuned to the values of privacy and personalization. -->
+1. You have large foundational AGI models that run on centralized servers by companies such as OpenAI. AI keeps evolving while humans don't physically evolve. If we go with this path, the gap between humans and AI will keep increasing.
+2. You augment yourself to evolve along with the highly intelligent models. This concept is the vision of companies such as Neuralink, which have a short-term goal of helping disabled people walk or blind people see, and a long-term goal of evolving humans into cyborgs.

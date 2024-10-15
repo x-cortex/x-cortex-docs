@@ -3,7 +3,7 @@ title: RAG Workflow
 description: Techniques for Enhancing AI Capabilities with RAG
 tableOfContents: false
 sidebar:
-  order: 1
+  order: 4
 ---
 
 The Retrieval-Augmented Generation (RAG) workflow integrates retrieval mechanisms with generative models, allowing for more informed and contextually relevant outputs. This section explores the workflows implemented in LangChain and LangGraph.

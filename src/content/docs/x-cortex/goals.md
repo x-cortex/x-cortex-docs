@@ -2,7 +2,7 @@
 title: Project Goals and Objectives
 description: Defining the mission and vision of the Personalized AI Assistant
 sidebar:
-  order: 2
+  order: 1
 ---
 
 ## Project Goals

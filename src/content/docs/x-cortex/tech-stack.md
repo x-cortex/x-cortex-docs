@@ -3,37 +3,34 @@ title: Tech Stack
 description: Our Tech Stack
 tableOfContents: false
 sidebar:
-  order: 3
+  order: 4
 ---
 
+This is the tech stack that we are using currently to build x-cortex.
+
 ## ML Tech Stack
+- 🖼️ Gradio
+- 🔥 Pytorch
+- 📚 LangChain
+- 📊 LangGraph
 
-- Gradio
-- Pytorch
-- LangChain
-- LangGraph
+### LLMs
+- 🌐 Groq API
+- 🦙 Llama 3.2 3B Instruct via ollama 
 
+### Web Search
+- 🔍 [Tavily AI](https://app.tavily.com/home)
 
-LLMs
-- Groq API
-- Llama 3.2 3B Instruct via ollama 
-
-Web Search
-- [Tavily AI](https://app.tavily.com/home)
-
-Vector Database
-- SKLearnVectorStore
-- ChromaDB
+### Vector Database
+- 📈 SKLearnVectorStore
+- 🗄️ ChromaDB
 
 ## Automation Tech Stack
-
-- Playwright
-- Pyautogui
-
+- 🎭 Playwright
+- 🖱️ Pyautogui
 
 ## Web Development Stack
-
-- Svelte & Sveltekit (main website)
-- Astro (documentation website)
-- Tailwind
-- Shadcn Svelte
+- 🌐 Svelte & Sveltekit (main website)
+- 📖 Astro (documentation website)
+- 🎨 Tailwind
+- 🧩 Shadcn Svelte
